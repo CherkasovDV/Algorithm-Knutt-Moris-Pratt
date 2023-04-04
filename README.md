@@ -1,3 +1,3 @@
 # Algorithm-Knutt-Moris-Pratt
-Bioinformatics project
+Bioinformatics project:
 fasta reader and realisation
